@@ -1,5 +1,5 @@
 {
-  "name": "nodemon",
+  "name": "@bgran/nodemon",
   "homepage": "http://nodemon.io",
   "author": {
     "name": "Remy Sharp",
@@ -66,5 +66,5 @@
     "undefsafe": "^2.0.2",
     "update-notifier": "^2.3.0"
   },
-  "version": "0.0.0-development"
+  "version": "1.0.0"
 }
